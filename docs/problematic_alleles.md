@@ -4,5 +4,4 @@ el_gato demonstrates a better ability to correctly call STs for *L. pneumophila*
 ### Table listing known alleles that el_gato can not differenatiate between
 gene | allele numbers | NCBI example
 -----|----------------|--------
-*mompS* | 7 and 15 | ERR8122877
 *mompS* | 28 and Novel Allele Type | SRR23514483
